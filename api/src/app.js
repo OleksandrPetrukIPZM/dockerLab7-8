@@ -9,7 +9,7 @@ app.use("/users", userRouter)
 
 const startServer = () => {
     app.listen(port, () => {
-        console.log(`Server is available on http://${host}:${port}`)
+        console.log(`Server is 12353 on http://${host}:${port}`)
     })
 }
 
